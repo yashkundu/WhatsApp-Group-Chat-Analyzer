@@ -1,5 +1,5 @@
 # WhatsApp-Group-Chat-Analyzer
-REST API that will analyze the WhatsApp groups and chats.
+A REST API that will analyze the WhatsApp groups and chats and display the analysis of the chats and the group member based on what are they doing on the group.
 
 Architecture:
 
